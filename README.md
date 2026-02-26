@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá, bem-vindo ao meu perfil!
 
-<!--
-**joarthuraujosilvasenac245-sys/joarthuraujosilvasenac245-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+° Meu nome é João 👨‍💻  
+° Este é meu perfil de uso acadêmico do SENAC.
 
-Here are some ideas to get you started:
+🐍 Linguagem principal: Python  
+📚 Perfil voltado para estudos, exercícios e projetos desenvolvidos durante o curso.
+# Formação
+° Programador de Sistema
+# Cursando 
+° TI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Conta principal: @JoaoAASilva
+
+Obrigado por visitar meu perfil!
