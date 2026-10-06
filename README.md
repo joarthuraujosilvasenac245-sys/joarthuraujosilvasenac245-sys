@@ -2,6 +2,9 @@
 
 ° Meu nome é João 👨‍💻  
 ° Este é meu perfil de uso acadêmico do SENAC.
+<p align="center">
+  <img src="./capa-github.png" width="100%">
+</p>
 
 🐍 Linguagem principal: Python  
 📚 Perfil voltado para estudos, exercícios e projetos desenvolvidos durante o curso.
