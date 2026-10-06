@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./capa-github.png" width="100%">
 </p>
-
 # 👋 Olá, bem-vindo ao meu perfil!
 
 ° Meu nome é João 👨‍💻
