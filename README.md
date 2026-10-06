@@ -1,18 +1,23 @@
-# 👋 Olá, bem-vindo ao meu perfil!
-
-° Meu nome é João 👨‍💻  
-° Este é meu perfil de uso acadêmico do SENAC.
 <p align="center">
   <img src="./capa-github.png" width="100%">
 </p>
 
-🐍 Linguagem principal: Python  
+# 👋 Olá, bem-vindo ao meu perfil!
+
+° Meu nome é João 👨‍💻
+° Este é meu perfil de uso acadêmico do SENAC.
+
+🐍 **Linguagem principal:** Python
 📚 Perfil voltado para estudos, exercícios e projetos desenvolvidos durante o curso.
-# Formação
+
+# 🎓 Formação
+
 ° Programador de Sistema
-# Cursando 
+
+# 📚 Cursando
+
 ° TI
 
-🔗 Conta principal: @JoaoAASilva
+🔗 **Conta principal:** @JoaoAASilva
 
-Obrigado por visitar meu perfil!
+Obrigado por visitar meu perfil! 🚀
