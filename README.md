@@ -1,27 +1,43 @@
 <p align="center">
-  <img src="./<img width="596" height="335" alt="images" src="https://github.com/user-attachments/assets/881502e4-deb3-4232-beb3-713e859c1bc3" />
-" width="100%">
+  <img src="https://github.com/user-attachments/assets/881502e4-deb3-4232-beb3-713e859c1bc3" width="100%">
 </p>
-# 👋 Olá, bem-vindo ao meu perfil!
 
-° Meu nome é João 👨‍💻
-° Este é meu perfil de uso acadêmico do SENAC.
+<h1 align="center">👋 Olá, bem-vindo ao meu perfil!</h1>
 
-🐍 **Linguagem principal:** Python
-📚 Perfil voltado para estudos, exercícios e projetos desenvolvidos durante o curso.
+<p>
+  Meu nome é João 👨‍💻<br>
+  Este é meu perfil de uso acadêmico do SENAC.
+</p>
 
-# 🎓 Formação
+---
 
-° Programador de Sistema
+## 🐍 Linguagem principal
 
-# 📚 Cursando
+**Python**
 
-° TI
-# Linguagem De Programacao
+Perfil voltado para estudos, exercícios e projetos desenvolvidos durante o curso.
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">
+## 🎓 Formação
 
+- Programador de Sistema
 
-🔗 **Conta principal:** @JoaoAASilva
+## 📚 Cursando
 
-Obrigado por visitar meu perfil! 🚀
+- Técnico em TI
+
+## 💻 Linguagens de Programação
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
+</p>
+
+---
+
+🔗 **Conta principal:** [@JoaoAASilva](https://github.com/JoaoAASilva)
+
+<p align="center">
+  Obrigado por visitar meu perfil! 🚀
+</p>
