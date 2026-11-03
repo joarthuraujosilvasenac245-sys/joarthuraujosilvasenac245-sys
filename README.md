@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./capa-github.png" width="100%">
+  <img src="./<img width="596" height="335" alt="images" src="https://github.com/user-attachments/assets/881502e4-deb3-4232-beb3-713e859c1bc3" />
+" width="100%">
 </p>
 # 👋 Olá, bem-vindo ao meu perfil!
 
